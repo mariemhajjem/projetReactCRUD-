@@ -1,0 +1,5 @@
+Document "Administration BD - Partie 1" : du diapo 23 (Dictionnaire de données) au diapo 56 (Fichiers de paramètres)
+Document "Administration BD - Partie 1" : du diapo 92 (Architecture SGBD Oracle) au diapo 101 (Arrêt de la BD)
+Document "Administration BD - Partie 2" : du diapo 10 (Gestion des Utilisateurs) au diapo 38 (Audit BD)
+Document "Concept de Base - Langage Plsql" : du diapo 7 (Structure d'un bloc PL/SQL) au diapo 39 (Gestion des exceptions) 
+Document " Procédures – Fonctions – Packages - Langage Plsql" : du diapo 2 (Procédures stockées) au diapo 12 (Fonctions stockées)
